@@ -1,0 +1,48 @@
+h2{
+    color: brown;
+}
+
+.giriscumle{
+    font-size: 15px;
+    font-style: italic;
+    font-weight: bold;
+}
+
+body{
+    background-color: rgba(240, 214, 158, 0.884);
+}
+
+
+.kackisi{
+    margin-left: 200px;
+    text-decoration: underline;
+    color:brown;
+}
+
+.secondtext {
+    text-decoration: underline;
+}
+
+.browntext{
+    color: brown;
+    text-decoration: underline;
+    margin-left: 20px;
+}
+
+.radiustext {
+    background-color: brown;
+    margin-left: 170px;
+    color: white;
+    border-radius: 8px;
+}
+
+.listtext{
+    margin-left: 170px;
+
+}
+
+.textright{
+    text-align: right;
+    font-weight: bold;
+    font-size: 28px;
+}
